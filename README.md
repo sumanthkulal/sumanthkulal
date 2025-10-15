@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Engineer
 --------------------------
 
-Final-year B.Tech Computer Science student with strong foundations in Java, JavaScript, SQL,
-
-and web technologies. Skilled in problem-solving, debugging, and database management,
-
-with exposure to the Software Development Life Cycle (SDLC) through academic projects and certifications. Eager to contribute to designing, developing, and maintaining efficient software solutions while continuously adapting to new technologies.
+Final-year B.Tech Computer Science student with strong foundations in Java, JavaScript, SQL, and web technologies. Skilled in problem-solving, debugging, and database management, with exposure to the Software Development Life Cycle (SDLC) through academic projects and certifications. Eager to contribute to designing, developing, and maintaining efficient software solutions while continuously adapting to new technologies.
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [sumanthkulal2005@gmail.com](mailto:sumanthkulal2005@gmail.com)
@@ -22,7 +18,7 @@ with exposure to the Software Development Life Cycle (SDLC) through academic pro
 <p align="left"> <a href="https://www.github.com/sumanthkulal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/sumanth-kulal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/sumanthkulal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sumanthkulal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
